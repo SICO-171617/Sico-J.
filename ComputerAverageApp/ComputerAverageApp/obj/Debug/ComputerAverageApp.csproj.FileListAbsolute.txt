@@ -1,0 +1,7 @@
+C:\Users\justi\source\repos\ComputerAverageApp\ComputerAverageApp\bin\Debug\ComputerAverageApp.exe.config
+C:\Users\justi\source\repos\ComputerAverageApp\ComputerAverageApp\bin\Debug\ComputerAverageApp.exe
+C:\Users\justi\source\repos\ComputerAverageApp\ComputerAverageApp\bin\Debug\ComputerAverageApp.pdb
+C:\Users\justi\source\repos\ComputerAverageApp\ComputerAverageApp\obj\Debug\ComputerAverageApp.csproj.AssemblyReference.cache
+C:\Users\justi\source\repos\ComputerAverageApp\ComputerAverageApp\obj\Debug\ComputerAverageApp.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\ComputerAverageApp\ComputerAverageApp\obj\Debug\ComputerAverageApp.exe
+C:\Users\justi\source\repos\ComputerAverageApp\ComputerAverageApp\obj\Debug\ComputerAverageApp.pdb

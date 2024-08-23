@@ -1,0 +1,7 @@
+C:\Users\justi\source\repos\DataTypesApp\DataTypesApp\bin\Debug\DataTypesApp.exe.config
+C:\Users\justi\source\repos\DataTypesApp\DataTypesApp\bin\Debug\DataTypesApp.exe
+C:\Users\justi\source\repos\DataTypesApp\DataTypesApp\bin\Debug\DataTypesApp.pdb
+C:\Users\justi\source\repos\DataTypesApp\DataTypesApp\obj\Debug\DataTypesApp.csproj.AssemblyReference.cache
+C:\Users\justi\source\repos\DataTypesApp\DataTypesApp\obj\Debug\DataTypesApp.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\DataTypesApp\DataTypesApp\obj\Debug\DataTypesApp.exe
+C:\Users\justi\source\repos\DataTypesApp\DataTypesApp\obj\Debug\DataTypesApp.pdb
