@@ -1,0 +1,7 @@
+C:\Users\justi\source\repos\frmStudentGradeProgram\frmStudentGradeProgram\bin\Debug\frmStudentGradeProgram.exe.config
+C:\Users\justi\source\repos\frmStudentGradeProgram\frmStudentGradeProgram\bin\Debug\frmStudentGradeProgram.exe
+C:\Users\justi\source\repos\frmStudentGradeProgram\frmStudentGradeProgram\bin\Debug\frmStudentGradeProgram.pdb
+C:\Users\justi\source\repos\frmStudentGradeProgram\frmStudentGradeProgram\obj\Debug\frmStudentGradeProgram.csproj.AssemblyReference.cache
+C:\Users\justi\source\repos\frmStudentGradeProgram\frmStudentGradeProgram\obj\Debug\frmStudentGradeProgram.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\frmStudentGradeProgram\frmStudentGradeProgram\obj\Debug\frmStudentGradeProgram.exe
+C:\Users\justi\source\repos\frmStudentGradeProgram\frmStudentGradeProgram\obj\Debug\frmStudentGradeProgram.pdb
