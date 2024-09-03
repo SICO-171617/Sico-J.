@@ -1,0 +1,7 @@
+C:\Users\justi\source\repos\olClassAct\olClassAct\bin\Debug\olClassAct.exe.config
+C:\Users\justi\source\repos\olClassAct\olClassAct\bin\Debug\olClassAct.exe
+C:\Users\justi\source\repos\olClassAct\olClassAct\bin\Debug\olClassAct.pdb
+C:\Users\justi\source\repos\olClassAct\olClassAct\obj\Debug\olClassAct.csproj.AssemblyReference.cache
+C:\Users\justi\source\repos\olClassAct\olClassAct\obj\Debug\olClassAct.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\olClassAct\olClassAct\obj\Debug\olClassAct.exe
+C:\Users\justi\source\repos\olClassAct\olClassAct\obj\Debug\olClassAct.pdb
