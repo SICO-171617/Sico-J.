@@ -1,0 +1,7 @@
+C:\Users\justi\source\repos\Lab4Act1\Lab4Act1\bin\Debug\Lab4Act1.exe.config
+C:\Users\justi\source\repos\Lab4Act1\Lab4Act1\bin\Debug\Lab4Act1.exe
+C:\Users\justi\source\repos\Lab4Act1\Lab4Act1\bin\Debug\Lab4Act1.pdb
+C:\Users\justi\source\repos\Lab4Act1\Lab4Act1\obj\Debug\Lab4Act1.csproj.AssemblyReference.cache
+C:\Users\justi\source\repos\Lab4Act1\Lab4Act1\obj\Debug\Lab4Act1.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Lab4Act1\Lab4Act1\obj\Debug\Lab4Act1.exe
+C:\Users\justi\source\repos\Lab4Act1\Lab4Act1\obj\Debug\Lab4Act1.pdb
