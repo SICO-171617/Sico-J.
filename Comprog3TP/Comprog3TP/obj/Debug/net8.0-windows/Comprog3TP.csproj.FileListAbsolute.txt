@@ -1,0 +1,16 @@
+C:\Users\justi\source\repos\Comprog3TP\Comprog3TP\bin\Debug\net8.0-windows\Comprog3TP.exe
+C:\Users\justi\source\repos\Comprog3TP\Comprog3TP\bin\Debug\net8.0-windows\Comprog3TP.deps.json
+C:\Users\justi\source\repos\Comprog3TP\Comprog3TP\bin\Debug\net8.0-windows\Comprog3TP.runtimeconfig.json
+C:\Users\justi\source\repos\Comprog3TP\Comprog3TP\bin\Debug\net8.0-windows\Comprog3TP.dll
+C:\Users\justi\source\repos\Comprog3TP\Comprog3TP\bin\Debug\net8.0-windows\Comprog3TP.pdb
+C:\Users\justi\source\repos\Comprog3TP\Comprog3TP\obj\Debug\net8.0-windows\Comprog3TP.Form1.resources
+C:\Users\justi\source\repos\Comprog3TP\Comprog3TP\obj\Debug\net8.0-windows\Comprog3TP.csproj.GenerateResource.cache
+C:\Users\justi\source\repos\Comprog3TP\Comprog3TP\obj\Debug\net8.0-windows\Comprog3TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\source\repos\Comprog3TP\Comprog3TP\obj\Debug\net8.0-windows\Comprog3TP.AssemblyInfoInputs.cache
+C:\Users\justi\source\repos\Comprog3TP\Comprog3TP\obj\Debug\net8.0-windows\Comprog3TP.AssemblyInfo.cs
+C:\Users\justi\source\repos\Comprog3TP\Comprog3TP\obj\Debug\net8.0-windows\Comprog3TP.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Comprog3TP\Comprog3TP\obj\Debug\net8.0-windows\Comprog3TP.dll
+C:\Users\justi\source\repos\Comprog3TP\Comprog3TP\obj\Debug\net8.0-windows\refint\Comprog3TP.dll
+C:\Users\justi\source\repos\Comprog3TP\Comprog3TP\obj\Debug\net8.0-windows\Comprog3TP.pdb
+C:\Users\justi\source\repos\Comprog3TP\Comprog3TP\obj\Debug\net8.0-windows\Comprog3TP.genruntimeconfig.cache
+C:\Users\justi\source\repos\Comprog3TP\Comprog3TP\obj\Debug\net8.0-windows\ref\Comprog3TP.dll
