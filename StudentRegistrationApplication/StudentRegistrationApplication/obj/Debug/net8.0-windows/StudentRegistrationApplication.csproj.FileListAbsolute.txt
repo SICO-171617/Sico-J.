@@ -1,0 +1,17 @@
+C:\Users\justi\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\net8.0-windows\StudentRegistrationApplication.exe
+C:\Users\justi\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\net8.0-windows\StudentRegistrationApplication.deps.json
+C:\Users\justi\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\net8.0-windows\StudentRegistrationApplication.runtimeconfig.json
+C:\Users\justi\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\net8.0-windows\StudentRegistrationApplication.dll
+C:\Users\justi\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\net8.0-windows\StudentRegistrationApplication.pdb
+C:\Users\justi\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.Form1.resources
+C:\Users\justi\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.csproj.GenerateResource.cache
+C:\Users\justi\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.AssemblyInfoInputs.cache
+C:\Users\justi\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.AssemblyInfo.cs
+C:\Users\justi\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.dll
+C:\Users\justi\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\refint\StudentRegistrationApplication.dll
+C:\Users\justi\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.pdb
+C:\Users\justi\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.genruntimeconfig.cache
+C:\Users\justi\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\ref\StudentRegistrationApplication.dll
+C:\Users\justi\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\net8.0-windows\StudentRegistrationApplication.Properties.Resources.resources
