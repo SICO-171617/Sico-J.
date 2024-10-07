@@ -1,0 +1,16 @@
+C:\Users\justi\source\repos\StudentInfoApplication\StudentInfoApplication\bin\Debug\net8.0-windows\StudentInfoApplication.exe
+C:\Users\justi\source\repos\StudentInfoApplication\StudentInfoApplication\bin\Debug\net8.0-windows\StudentInfoApplication.deps.json
+C:\Users\justi\source\repos\StudentInfoApplication\StudentInfoApplication\bin\Debug\net8.0-windows\StudentInfoApplication.runtimeconfig.json
+C:\Users\justi\source\repos\StudentInfoApplication\StudentInfoApplication\bin\Debug\net8.0-windows\StudentInfoApplication.dll
+C:\Users\justi\source\repos\StudentInfoApplication\StudentInfoApplication\bin\Debug\net8.0-windows\StudentInfoApplication.pdb
+C:\Users\justi\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\net8.0-windows\StudentInfoApplication.Form1.resources
+C:\Users\justi\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\net8.0-windows\StudentInfoApplication.csproj.GenerateResource.cache
+C:\Users\justi\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\net8.0-windows\StudentInfoApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\net8.0-windows\StudentInfoApplication.AssemblyInfoInputs.cache
+C:\Users\justi\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\net8.0-windows\StudentInfoApplication.AssemblyInfo.cs
+C:\Users\justi\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\net8.0-windows\StudentInfoApplication.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\net8.0-windows\StudentInfoApplication.dll
+C:\Users\justi\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\net8.0-windows\refint\StudentInfoApplication.dll
+C:\Users\justi\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\net8.0-windows\StudentInfoApplication.pdb
+C:\Users\justi\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\net8.0-windows\StudentInfoApplication.genruntimeconfig.cache
+C:\Users\justi\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\net8.0-windows\ref\StudentInfoApplication.dll
